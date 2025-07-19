@@ -1,13 +1,14 @@
 ### Hi there 👋 I'm Narasimha Shastry B K!
 
-[cite_start]A driven final-year B.Tech student specializing in AI & ML [cite: 4][cite_start], passionate about applying cutting-edge technologies to real-world problems with strong problem-solving skills and a keen interest in research and innovation[cite: 5].
+A final-year B.Tech student specializing in AI & ML, driven to apply cutting-edge technologies and strong problem-solving skills to real-world challenges.
 
 ---
 
-### 🚀 What I'm Currently Working On
+### 🚀 Currently Exploring
 
-* [cite_start]📚 Deep-diving into Large Language Models (LLMs) and their applications, especially in code generation, inspired by my project intern experience at NVIDIA AI Technology Centre[cite: 17, 18, 19].
-* 🏗️ Exploring advanced concepts in AI/ML and full-stack development, always looking for innovative solutions to complex problems.
+* **Large Language Models (LLMs):** Deep-diving into their applications, especially in areas like automated code generation, inspired by my NVIDIA internship.
+* **Full-Stack AI Solutions:** Combining my AI/ML expertise with full-stack development to build comprehensive, intelligent systems.
+* **Research & Innovation:** Continuously exploring new technologies and contributing to impactful projects.
 
 ---
 
@@ -21,22 +22,23 @@
 
 ### 🌟 Featured Projects
 
-Here are a few projects I'm particularly proud of. Click on them to learn more!
+Here are a few projects I'm particularly proud of. Each repository provides more details.
+
+* **AutoSensor DriverGen**
+    * [cite_start]**Description:** A Python-based GenAI tool for automating C driver code generation for image sensors by extracting register data from PDF datasheets using LLMs. [cite: 15, 16, 17, 18, 19]
+    * [cite_start]**Tech Stack:** Python, LLMs, C Code Generation. [cite: 17, 18]
+    * [cite_start]**Status:** Developed during my Project Internship at NVIDIA AI Technology Centre (NVAITC). [cite: 13, 14]
+    * **Repository:** [Link to your AutoSensor DriverGen GitHub Repo if public/available for sharing]
 
 * **RAG-Based Music Recommendation System**
-    * [cite_start]**Description:** Implements a Retrieval-Augmented Generation (RAG) model for personalized music recommendations, leveraging multi-hop reasoning, retrieval techniques, and transformer-based text generation with LLMs[cite: 36, 37, 38].
-    * **Technologies:** Python, FastAPI, Large Language Models (LLMs), Transformer Models.
+    * [cite_start]**Description:** Implements a Retrieval-Augmented Generation (RAG) model leveraging multi-hop reasoning, dense/sparse retrieval, and transformer-based text generation with LLMs for personalized music recommendations. [cite: 36, 37, 38]
+    * [cite_start]**Tech Stack:** Python (FastAPI), LLMs, Transformer Models. [cite: 39]
     * **Repository:** [Link to your RAG-Based Music Recommendation System GitHub Repo]
 
 * **Connect 4 AI**
-    * [cite_start]**Description:** A full-stack, containerized web application where users play Connect 4 against a challenging AI opponent powered by the Minimax algorithm, demonstrating end-to-end development and CI/CD[cite: 41, 42].
-    * **Technologies:** Python, JavaScript/HTML/CSS, Docker.
+    * [cite_start]**Description:** A full-stack, containerized web application where users play the classic game of Connect 4 against a challenging AI opponent powered by the Minimax algorithm. [cite: 41]
+    * [cite_start]**Tech Stack:** Python, JavaScript/HTML/CSS, Docker. [cite: 43]
     * **Repository:** [Link to your Connect 4 AI GitHub Repo]
-
-* **TrafficOptiSim**
-    * [cite_start]**Description:** A C++-based smart traffic signal simulation and optimization system designed for urban environments, employing pathfinding algorithms like Dijkstra's for optimal vehicle routes[cite: 45, 46, 47].
-    * **Technologies:** C++.
-    * **Repository:** [Link to your TrafficOptiSim GitHub Repo]
 
 ---
 
