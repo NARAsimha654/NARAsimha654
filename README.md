@@ -46,10 +46,6 @@ Final-year B.Tech student specializing in **AI & Machine Learning** with hands-o
 ![Prometheus](https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/ci/cd-000?style=for-the-badge)
-![OCR](https://img.shields.io/badge/ocr-008080?style=for-the-badge)
-![Research](https://img.shields.io/badge/research-4B0082?style=for-the-badge)
-![Algorithm Optimization](https://img.shields.io/badge/algorithm%20optimization-20B2AA?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/data%20analysis-3050E6?style=for-the-badge)
 
 ---
 
@@ -67,29 +63,28 @@ Final-year B.Tech student specializing in **AI & Machine Learning** with hands-o
 
 ---
 
-## 🚀 Projects
+## 🚀  Recent Projects
 
 - **RAG-Based Music Recommendation System**  
   Retrieval-Augmented Generation system using dense/sparse retrieval and LLMs for dynamic, user-tailored music recommendations.  
   *Tech Stack:* Python (FastAPI)  
-  [View Repository](https://github.com/yourusername/music-recommendation-system)
+  [View Repository]([https://github.com/NARAsimha654/Multi-Hop-RAG-for-Personalized-Music-Recommendation])
 
 - **Connect 4 AI**  
   Web app to play Connect 4 against AI using Minimax algorithm. Fully containerized, CI/CD enabled, modern UI.  
   *Tech Stack:* Python, JavaScript/HTML/CSS, Docker  
-  [View Repository](https://github.com/yourusername/connect4-ai)
+  [View Repository]([https://github.com/NARAsimha654/Connect4-AI-Bot])
 
-- **Forged Documents Detector**  
-  Deep learning and OCR-powered system to identify document forgeries (ID cards, passports, licenses)  
-  *Tech Stack:* Python  
-  [View Repository](https://github.com/yourusername/forged-document-detector)
+- **MockView Bot**  
+  A smart, customizable mock interview chatbot designed to help students and job seekers prepare for technical interviews.  
+  *Tech Stack:* Python (Flask backend), JavaScript/HTML/CSS (frontend) 
+  [View Repository]([https://github.com/NARAsimha654/MockView-Bot])
 
 - **TrafficOptiSim**  
   C++ simulation for smart traffic signals to optimize flow using historical/simulated data and pathfinding algorithms  
   *Tech Stack:* C++  
-  [View Repository](https://github.com/yourusername/trafficoptisim)
+  [View Repository]([https://github.com/NARAsimha654/TrafficOptiSim])
 
-<!-- Replace the above URLs with your actual GitHub repos! -->
 
 ---
 
@@ -120,9 +115,7 @@ Final-year B.Tech student specializing in **AI & Machine Learning** with hands-o
 
 ## 🌐 Contact & Links
 
-[![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](snarasimha654@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narasimha-shastry-b-k-17936126a)
 
 ---
