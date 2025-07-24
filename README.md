@@ -99,12 +99,10 @@ Final-year B.Tech student specializing in **AI & Machine Learning** with hands-o
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NARAsimha654&layout=compact&theme=react)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NARAsimha654&show_icons=true&count_private=true&theme=react)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NARAsimha654&show_icons=true&theme=react&v=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NARAsimha654&layout=compact&theme=react&v=2)
 
-<a href="https://github.com/NARAsimha654">
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=NARAsimha654&theme=react-dark" />
-</a>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NARAsimha654&theme=react-dark)
 
 ---
 
