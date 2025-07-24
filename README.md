@@ -68,22 +68,22 @@ Final-year B.Tech student specializing in **AI & Machine Learning** with hands-o
 - **RAG-Based Music Recommendation System**  
   Retrieval-Augmented Generation system using dense/sparse retrieval and LLMs for dynamic, user-tailored music recommendations.  
   *Tech Stack:* Python (FastAPI)  
-  [View Repository]([https://github.com/NARAsimha654/Multi-Hop-RAG-for-Personalized-Music-Recommendation])
+  [View Repository](https://github.com/NARAsimha654/Multi-Hop-RAG-for-Personalized-Music-Recommendation)
 
 - **Connect 4 AI**  
   Web app to play Connect 4 against AI using Minimax algorithm. Fully containerized, CI/CD enabled, modern UI.  
   *Tech Stack:* Python, JavaScript/HTML/CSS, Docker  
-  [View Repository]([https://github.com/NARAsimha654/Connect4-AI-Bot])
+  [View Repository](https://github.com/NARAsimha654/Connect4-AI-Bot)
 
 - **MockView Bot**  
   A smart, customizable mock interview chatbot designed to help students and job seekers prepare for technical interviews.  
   *Tech Stack:* Python (Flask backend), JavaScript/HTML/CSS (frontend) 
-  [View Repository]([https://github.com/NARAsimha654/MockView-Bot])
+  [View Repository](https://github.com/NARAsimha654/MockView-Bot)
 
 - **TrafficOptiSim**  
   C++ simulation for smart traffic signals to optimize flow using historical/simulated data and pathfinding algorithms  
   *Tech Stack:* C++  
-  [View Repository]([https://github.com/NARAsimha654/TrafficOptiSim])
+  [View Repository](https://github.com/NARAsimha654/TrafficOptiSim)
 
 
 ---
